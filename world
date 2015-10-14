@@ -1,0 +1,8 @@
+#!/usr/bin/php -q
+<?php
+    while (1)
+    {
+    	usleep(400);
+    	print("Teste");
+    }        
+?>
